@@ -1,5 +1,5 @@
 [![MasterHead](https://agmakarov.ru/greetings_small.gif)](https://agmakarov.ru)
-<h1 align="center">Hi 👋, I'm Alexandra [HELLO]</h1>
+<h1 align="center">Hi 👋, I'm Alexandra [![HELLO](https://giphy.com/gifs/transparent-tpWXS9bZQL6z6YC8Gq)]</h1>
 <h3 align="center">Manual QA Engineer</h3>
 
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/srA1d5LJxv8KKc6EZz/giphy.gif">
@@ -26,4 +26,3 @@
 [linkedin]: https://www.linkedin.com/in/klukva-aga/
 [tg]: https://t.me/Klukva_aga
 [TestCloud]: https://testcloud.ru/
-[HELLO]: https://giphy.com/gifs/transparent-tpWXS9bZQL6z6YC8Gq
