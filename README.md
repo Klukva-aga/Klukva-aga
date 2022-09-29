@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alexandra[![MasterHead](https://agmakarov.ru/greetings_small.gif)](https://agmakarov.ru)</h1> 
 
+[![MasterHead](https://agmakarov.ru/greetings_small.gif)](https://agmakarov.ru)
+<h1 align="center">Hi 👋, I'm Alexandra</h1>
+<h3 align="center">Manual QA Engineer</h3>
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/srA1d5LJxv8KKc6EZz/giphy.gif">
 
 - 🔭 I’m currently working at [TestCloud]
