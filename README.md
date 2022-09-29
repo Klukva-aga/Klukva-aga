@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandra [![MasterHead](https://agmakarov.ru/greetings_small.gif)](https://agmakarov.ru) </h1> 
+<h1 align="center">Hi 👋, I'm Alexandra[![MasterHead](https://agmakarov.ru/greetings_small.gif)](https://agmakarov.ru)</h1> 
 
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/srA1d5LJxv8KKc6EZz/giphy.gif">
 
