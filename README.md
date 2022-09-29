@@ -1,5 +1,5 @@
 [![MasterHead](https://agmakarov.ru/greetings_small.gif)](https://agmakarov.ru)
-<h1 align="center">Hi 👋, I'm Alexandra</h1>
+<h1 align="center">Hi 👋, I'm Alexandra (https://giphy.com/gifs/transparent-tpWXS9bZQL6z6YC8Gq)</h1>
 <h3 align="center">Manual QA Engineer</h3>
 
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/srA1d5LJxv8KKc6EZz/giphy.gif">
