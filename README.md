@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Coffee and Adventure** 
 
-- 📫 How to reach me **qaklukvaaga.ru**
+- 📫 How to reach me **klukvaaga@gmail.com**
 
 - ⚡ Fun fact **As a student, I hitchhiked about 12,000 kilometers across Russia**
 <h3 align="left">Connect with me:</h3>
