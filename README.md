@@ -2,7 +2,7 @@
 <h3 align="center">Manual QA Engineer</h3>
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/srA1d5LJxv8KKc6EZz/giphy.gif">
 
-- 🔭 I’m currently working at [Vsemayki], and previously at [TestCloud]
+- 🔭 I’m currently working at [Ecom.tech], and previously at [T1], [Vsemayki], [TestCloud]
 
 - 🌱 I’m currently learning **Conferences and Autotests**
 
@@ -23,3 +23,5 @@
 [tg]: https://t.me/Klukva_aga
 [TestCloud]: https://testcloud.ru/
 [Vsemayki]: https://www.vsemayki.ru/
+[T1]: https://inno.tech/
+[Ecom.tech]: https://ecom.tech/
